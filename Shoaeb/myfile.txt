@@ -1,1 +1,2 @@
 sample text
+This is a new line
